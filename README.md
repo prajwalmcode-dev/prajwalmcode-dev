@@ -64,9 +64,9 @@ Here are some of my most popular repositories that showcase my work:
 
 ## 🔗 Let's Connect
 
-- 🌍 **Website**: [YourWebsite.com](https://yourwebsite.com)
-- 📧 **Email**: [youremail@example.com](mailto:prajwalmhaskar90@gmail.com)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 🌍 **Website**: [MyWebsite.com](https://yourwebsite.com)
+- 📧 **Email**: [myemail@example.com](mailto:prajwalmhaskar90@gmail.com)
+- 🐦 **Twitter**: [@MyTwitterHandle](https://twitter.com/YourTwitterHandle)
 - 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/prajwal-mhaskar-1s2s3n/)
 
 ---
@@ -90,29 +90,6 @@ Thank you for visiting my profile! You can follow my open-source contributions, 
 <p align="center">
   <img src="https://img.shields.io/github/followers/prajwalmcode-dev?label=Follow&style=social" />
 </p>
-
-<style>
-  .section-header {
-    font-size: 28px;
-    font-weight: bold;
-    color: #4e73df;
-  }
-
-  .repo-table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-
-  .repo-table th, .repo-table td {
-    padding: 10px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-
-  .repo-table th {
-    background-color: #f4f4f4;
-  }
-</style>
 
 <div class="section-header">Top Repositories</div>
 <table class="repo-table">
