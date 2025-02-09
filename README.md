@@ -1,8 +1,12 @@
-# 👋 Welcome to My GitHub Profile!
+<p align="center">
+  # 👋 Welcome to My GitHub Profile!
+</p>
 
 Hello there! I'm Prajwal Mhaskar, a passionate software developer with expertise in a wide range of technologies. I'm always eager to learn and collaborate on new projects. Here's a quick overview of who I am, what I do, and the technologies I have worked with.
 
-![Profile Banner](https://github.com/user-attachments/assets/11ac893e-4cb4-43e5-a7d2-f0e133c6155f)
+<p align="center">
+  ![Profile Banner](https://github.com/user-attachments/assets/11ac893e-4cb4-43e5-a7d2-f0e133c6155f)
+</p>
 
 ---
 
